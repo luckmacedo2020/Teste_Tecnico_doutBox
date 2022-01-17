@@ -32,11 +32,11 @@ A convenção para o Model é o nome da entidade em singular;
 
 4 O que é MVC?
 
-a sigla mvc é model views e controllers ;
+a sigla mvc é model views e controllers model modelagem de dados , controller controle e interação do site entre outras funçoes viws interação ;
 
-5
+5 Como podemos gerar rotas automática com Laravel
 
-
+creio eu que seria passando pelos controllers
 
 6 Explique o que é o Blade e quais as principais diretivas?
 
@@ -73,4 +73,6 @@ para usar o laravel tem que fazer sua instalação.
 Ele é uma interface aonde você usa no terminal aonde você pode executar diversas operações diferentes no laravel e no seu projeto pode adicionar controllers pode adicionar models entre outros é muito útil para nossa aplicação e assim ganhamos tempos  pois é muito mais pratico.
 
 10.Como funciona o Auth do Laravel?
+seria a autenticação de usuario do nosso site criado por laravel  O arquivo de configuração da autenticação está localizado no diretório config/auth.php,
+
 
